@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 asks = "*"
-curio = "*"
+trio = "*"
 
 [requires]
 python_version = "3.7"
