@@ -1,2 +1,2 @@
 # needy
-a barrage of requests, facilitated by curio+asks
+a barrage of requests, facilitated by trio+asks
